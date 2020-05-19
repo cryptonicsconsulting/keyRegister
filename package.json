@@ -1,0 +1,27 @@
+{
+  "name": "keyregister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptonicsconsulting/keyRegister.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptonicsconsulting/keyRegister/issues"
+  },
+  "homepage": "https://github.com/cryptonicsconsulting/keyRegister#readme",
+  "dependencies": {
+    "eccrypto": "^1.1.3",
+    "eth-crypto": "^1.6.0",
+    "web3": "^1.2.7"
+  }
+}
